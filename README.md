@@ -7,7 +7,7 @@ Create a simple React application that utilizes the Dogs.CEO API to display rand
 1. Display random dog images fetched from the Dogs.CEO API on page load.
 2. Include a button labeled "Fetch New Dogs" that, when clicked, fetches and displays new random dog images with a maximum of 20 images.
 3. Make sure to handle errors gracefully, such as when the API is down or returns an error response.
-4. Ensure that the UI is clean and user-friendly.
+4. Ensure that the UI is clean and mobile/user-friendly.
 
 ### Requirements
 
