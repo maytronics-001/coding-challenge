@@ -15,7 +15,7 @@ Create a simple React application that utilizes the Dogs.CEO API to display rand
 - Utilize the Dogs.CEO API (https://dog.ceo/dog-api/) to fetch random dog images.
 - You can use any additional libraries or frameworks as needed.
 - Ensure that the code is well-structured, clean, and follows best practices.
-- Provide comments where necessary to explain your code.
+- Provide comments where necessary to explain your code
 
 ### Bonus (Optional)
 
