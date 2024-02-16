@@ -1,3 +1,35 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+.app{
+  display: flex;
+  flex-direction: column;
+}
+
+.btn{
+  background-color: #e4e4e4;
+  padding: 10px 20px;
+  align-self: center;
+  margin: 20px 0;
+}
+
+.btn:disabled{
+  background-color: #7a7a7b;
+}
+
+.dogs-ctr{
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.dog-item{
+  width: 100%; 
+  margin: 10px;
+}
+
+@media only screen and (min-width: 575px) {
+  .dog-item{
+    width: calc(33% - 20px); 
+  }
+}
